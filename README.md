@@ -1,7 +1,7 @@
 ## Data/Business Analyst
 
 📧 siddhargalkar@gmail.com  
-🌐 [LinkedIn](https://www.linkedin.com/in/siddhesh-dhargalkar-b7a36515b/). | 📍 Dubai  
+🌐 [LinkedIn](https://www.linkedin.com/in/siddhesh-dhargalkar-b7a36515b/). | 📍 Dubai (Sponsorship Visa 2 Years ) 
 
 ---
 
