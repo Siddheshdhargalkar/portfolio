@@ -1,12 +1,12 @@
 **Data Analyst** 
 
 📧 siddhargalkar@gmail.com  
-🌐 [LinkedIn]([https://www.linkedin.com/in/your-link](https://www.linkedin.com/in/siddhesh-dhargalkar-b7a36515b/)) | 📍 Dubai  
+🌐 [LinkedIn](https://www.linkedin.com/in/siddhesh-dhargalkar-b7a36515b/). | 📍 Dubai  
 
 ---
 
 ## About me
-Data Analyst with a strong foundation in data analysis, business intelligence, and full-stack development. Skilled in Python, SQL, Power BI, Tableau, and Advanced Excel, with hands-on experience in exploratory data analysis, data cleaning, visualization, and dashboard creation. Adept at turning complex datasets into clear, actionable insights to support business decisions.
+Data Analyst with a strong foundation in data analysis, business intelligence, and full-stack development. Skilled in Python, SQL, Power BI,  and Advanced Excel, with hands-on experience in exploratory data analysis, data cleaning, visualization, and dashboard creation. Adept at turning complex datasets into clear, actionable insights to support business decisions.
 
 Experienced in working with real-world data across industries including entertainment, healthcare, and finance. Holds certifications from Google, Microsoft, and Udemy in data analytics and visualization. Educational background includes a Bachelor's in Computer Engineering and a Diploma in Computer Engineering. Published research on deep learning-based cryptocurrency price prediction in Springer Nature.
 
@@ -18,7 +18,7 @@ Currently based in Dubai and open to data-driven opportunities that leverage bot
 ## 💼 Technical Skills
 
 - **Languages & Databases:** Python, Pandas, NumPy, Matplotlib, MySQL, Databricks  
-- **Visualization Tools:** Power BI, Tableau, Excel  
+- **Visualization Tools:** Power BI, Excel  
 - **Other Skills:** Advanced Excel, Business Analysis, Data Cleaning, Dashboard Creation
 
 ---
