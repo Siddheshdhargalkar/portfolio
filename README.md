@@ -65,8 +65,10 @@ _Aug 2023 – Sep 2023_
 
 ## 📝 Publications
 
-**"Optimized Deep Learning Framework for Cryptocurrency Price Prediction"** 
+**"Optimized Deep Learning Framework for Cryptocurrency Price Prediction"**   
+
 Published in **Springer Nature**, Vol. 6, Article No. 67, January 2025
+
 **Tools**: Python, Deep Learning, HTML, CSS, JavaScript
 
 In this published research, I co-developed an advanced deep learning framework aimed at improving the accuracy of cryptocurrency price prediction. The study focused on three major cryptocurrencies—Monero, Ethereum, and Litecoin—and applied two powerful neural network architectures: Long Short-Term Memory (LSTM) and Gated Recurrent Units (GRU). To enhance predictive performance, we incorporated external market indicators including the Direction Algorithm (to capture the influence of Bitcoin as a parent coin), Change Point Detection using the PELT algorithm (to identify sudden market shifts), and sentiment analysis via the VADER algorithm (to quantify the impact of cryptocurrency-related news).
