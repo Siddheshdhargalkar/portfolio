@@ -1,4 +1,4 @@
-**Data Analyst** 
+## Data/Business Analyst
 
 📧 siddhargalkar@gmail.com  
 🌐 [LinkedIn](https://www.linkedin.com/in/siddhesh-dhargalkar-b7a36515b/). | 📍 Dubai  
