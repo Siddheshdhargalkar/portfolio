@@ -1,4 +1,10 @@
-# Siddhesh Santosh Dhargalkar  
+## About me
+Data Analyst with a strong foundation in data analysis, business intelligence, and full-stack development. Skilled in Python, SQL, Power BI, Tableau, and Advanced Excel, with hands-on experience in exploratory data analysis, data cleaning, visualization, and dashboard creation. Adept at turning complex datasets into clear, actionable insights to support business decisions.
+
+Experienced in working with real-world data across industries including entertainment, healthcare, and finance. Holds certifications from Google, Microsoft, and Udemy in data analytics and visualization. Educational background includes a Bachelor's in Computer Engineering and a Diploma in Computer Engineering. Published research on deep learning-based cryptocurrency price prediction in Springer Nature.
+
+Currently based in Dubai and open to data-driven opportunities that leverage both technical expertise and analytical thinking.
+
 **Data Analyst** 
 
 📧 siddhargalkar@gmail.com  
