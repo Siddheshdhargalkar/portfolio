@@ -1,25 +1,80 @@
-# Data Scientist
+---
+layout: default
+---
 
-#### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
+# Siddhesh Santosh Dhargalkar  
+**Data Analyst**  
+📞 +971 562371305 / +91 9764923503  
+📧 siddhargalkar@gmail.com  
+🌐 [LinkedIn]([https://www.linkedin.com/in/your-link](https://www.linkedin.com/in/siddhesh-dhargalkar-b7a36515b/)) | 📍 Dubai  
 
-## Education
-- Ph.D., Physics | The University of Texas at Dallas (_May 2022_)								       		
-- M.S., Physics	| The University of Texas at Dallas (_December 2019_)	 			        		
-- B.S., Physics | The University of Texas at Dallas (_May 2017_)
+---
 
-## Work Experience
-**Data Scientist @ Toyota Financial Services (_June 2022 - Present_)**
-- Uncovered and corrected missing step in production data pipeline which impacted over 70% of active accounts
-- Redeveloped loan originations model which resulted in 50% improvement in model performance and saving 1 million dollars in potential losses
+## 💼 Technical Skills
 
-**Data Science Consultant @ Shawhin Talebi Ventures LLC (_December 2020 - Present_)**
-- Conducted data collection, processing, and analysis for novel study evaluating the impact of over 300 biometrics variables on human performance in hyper-realistic, live-fire training scenarios
-- Applied unsupervised deep learning approaches to longitudinal ICU data to discover novel sepsis sub-phenotypes
+- **Languages & Databases:** Python, Pandas, NumPy, Matplotlib, MySQL  
+- **Visualization Tools:** Power BI, Tableau, Excel  
+- **Other Skills:** Advanced Excel, Business Analysis, Data Cleaning, Dashboard Creation
 
-## Projects
-### Data-Driven EEG Band Discovery with Decision Trees
-[Publication](https://www.mdpi.com/1424-8220/22/8/3048)
+---
 
-Developed objective strategy for discovering optimal EEG bands based on signal power spectra using **Python**. This data-driven approach led to better characterization of the underlying power spectrum by identifying bands that outperformed the more commonly used band boundaries by a factor of two. The proposed method provides a fully automated and flexible approach to capturing key signal components and possibly discovering new indices of brain activity.
+## 🎓 Education
 
-![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
+- **B.E. in Computer Engineering**  
+  Agnel Institute of Technology and Design, Goa (_July 2021 – July 2024_)
+
+- **Diploma in Computer Engineering**  
+  Government Polytechnic, Panjim, Goa (_July 2016 – Nov 2020_)
+
+---
+
+## 💻 Work Experience
+
+### **Data Analyst Intern @ Unified Mentor**  
+_Nov 2024 – Jan 2025_  
+- Analyzed Netflix trends (2008–2021) to explore genre growth and original content.  
+- Performed EDA on COVID-19 clinical trials dataset to identify global trial trends.  
+- Investigated pizza sales data to identify peak ordering times and top revenue drivers.
+
+### **Data Analyst Intern @ Codtech IT Solutions**  
+_July 2024 – Sep 2024_  
+- Conducted EDA on Haberman's dataset to determine survival patterns.  
+- Cleaned and visualized social media data using NLP for sentiment classification.  
+- Used Python, Pandas, Seaborn, and Matplotlib for data analysis.
+
+### **Full Stack Developer Intern @ Imagine Panaji Smart City Dev. Ltd.**  
+_Aug 2023 – Sep 2023_  
+- Developed responsive websites using HTML, CSS, JS, Bootstrap, and PHP.  
+- Utilized SQL for data querying and efficient database design.  
+- Optimized backend processes by streamlining database structures.
+
+---
+
+## 📊 Projects
+
+### **Cryptocurrency Price Prediction**  
+_Tools: Python, Deep Learning, HTML, CSS, JavaScript_  
+- Built deep learning models for improved price prediction accuracy.  
+- Integrated sentiment analysis from news sources for better forecasts.  
+- Outperformed traditional models with lower error margins.  
+
+---
+
+## 📜 Certificates
+
+- **Google Data Analytics** – Coursera  
+- **Career Essentials in Data Analysis** – Microsoft & LinkedIn  
+- **Data Analytics & Visualization Job Simulation** – Forage & Accenture  
+- **Complete Data Analyst Training** – Udemy (Python, NumPy, Pandas, Data Collection, Visualization)  
+- **SQL for Business Analysis** – Udemy  
+
+---
+
+## 📝 Publications
+
+**"Optimized Deep Learning Framework for Cryptocurrency Price Prediction"**  
+Published in **Springer Nature**, Vol. 6, Article No. 67, January 2025  
+[Read Publication](https://link.springer.com/article/10.1007/s42979-024-03611-9)
+
+---
+
