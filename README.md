@@ -1,3 +1,10 @@
+**Data Analyst** 
+
+📧 siddhargalkar@gmail.com  
+🌐 [LinkedIn]([https://www.linkedin.com/in/your-link](https://www.linkedin.com/in/siddhesh-dhargalkar-b7a36515b/)) | 📍 Dubai  
+
+---
+
 ## About me
 Data Analyst with a strong foundation in data analysis, business intelligence, and full-stack development. Skilled in Python, SQL, Power BI, Tableau, and Advanced Excel, with hands-on experience in exploratory data analysis, data cleaning, visualization, and dashboard creation. Adept at turning complex datasets into clear, actionable insights to support business decisions.
 
@@ -5,10 +12,6 @@ Experienced in working with real-world data across industries including entertai
 
 Currently based in Dubai and open to data-driven opportunities that leverage both technical expertise and analytical thinking.
 
-**Data Analyst** 
-
-📧 siddhargalkar@gmail.com  
-🌐 [LinkedIn]([https://www.linkedin.com/in/your-link](https://www.linkedin.com/in/siddhesh-dhargalkar-b7a36515b/)) | 📍 Dubai  
 
 ---
 
@@ -47,15 +50,6 @@ _Aug 2023 – Sep 2023_
 - Utilized SQL for data querying and efficient database design.  
 - Optimized backend processes by streamlining database structures.
 
----
-
-## 📊 Projects
-
-### **Cryptocurrency Price Prediction**  
-_Tools: Python, Deep Learning, HTML, CSS, JavaScript_  
-- Built deep learning models for improved price prediction accuracy.  
-- Integrated sentiment analysis from news sources for better forecasts.  
-- Outperformed traditional models with lower error margins.  
 
 ---
 
@@ -72,7 +66,9 @@ _Tools: Python, Deep Learning, HTML, CSS, JavaScript_
 ## 📝 Publications
 
 **"Optimized Deep Learning Framework for Cryptocurrency Price Prediction"** 
+
 Published in **Springer Nature**, Vol. 6, Article No. 67, January 2025
+
 **Tools**: Python, Deep Learning, HTML, CSS, JavaScript
 
 In this published research, I co-developed an advanced deep learning framework aimed at improving the accuracy of cryptocurrency price prediction. The study focused on three major cryptocurrencies—Monero, Ethereum, and Litecoin—and applied two powerful neural network architectures: Long Short-Term Memory (LSTM) and Gated Recurrent Units (GRU). To enhance predictive performance, we incorporated external market indicators including the Direction Algorithm (to capture the influence of Bitcoin as a parent coin), Change Point Detection using the PELT algorithm (to identify sudden market shifts), and sentiment analysis via the VADER algorithm (to quantify the impact of cryptocurrency-related news).
@@ -82,3 +78,13 @@ By combining these diverse data sources, our proposed models (VADER + Direction 
 
 ---
 
+
+## 📊 Projects
+
+### **Cryptocurrency Price Prediction**  
+Tools: Python, Deep Learning, HTML, CSS, JavaScript
+- Built deep learning models for improved price prediction accuracy.  
+- Integrated sentiment analysis from news sources for better forecasts.  
+- Outperformed traditional models with lower error margins.
+
+---
