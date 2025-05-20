@@ -16,7 +16,7 @@ Currently based in Dubai and open to data-driven opportunities that leverage bot
 ---
 
 ## 💼 Technical Skills
-![Skillset](https://i.postimg.cc/Ssv0K8hS/skilssss.png)
+![Skillset](https://i.postimg.cc/R0wQhzxN/skills-small.png)
 - **Languages & Databases:** Python, Pandas, NumPy, Matplotlib, MySQL, Databricks  
 - **Visualization Tools:** Power BI, Excel  
 - **Other Skills:** Advanced Excel, Business Analysis, Data Cleaning, Dashboard Creation
