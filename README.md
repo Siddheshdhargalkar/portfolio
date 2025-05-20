@@ -1,5 +1,6 @@
 # Siddhesh Santosh Dhargalkar  
-**Data Analyst**   
+**Data Analyst** 
+
 📧 siddhargalkar@gmail.com  
 🌐 [LinkedIn]([https://www.linkedin.com/in/your-link](https://www.linkedin.com/in/siddhesh-dhargalkar-b7a36515b/)) | 📍 Dubai  
 
@@ -7,7 +8,7 @@
 
 ## 💼 Technical Skills
 
-- **Languages & Databases:** Python, Pandas, NumPy, Matplotlib, MySQL  
+- **Languages & Databases:** Python, Pandas, NumPy, Matplotlib, MySQL, Databricks  
 - **Visualization Tools:** Power BI, Tableau, Excel  
 - **Other Skills:** Advanced Excel, Business Analysis, Data Cleaning, Dashboard Creation
 
@@ -15,7 +16,7 @@
 
 ## 🎓 Education
 
-- **B.E. in Computer Engineering**  
+- **Bachelor's Degree in Computer Engineering**  
   Agnel Institute of Technology and Design, Goa ( July 2021 – July 2024 )
 
 ---
@@ -57,7 +58,7 @@ _Tools: Python, Deep Learning, HTML, CSS, JavaScript_
 - **Google Data Analytics** – Coursera  
 - **Career Essentials in Data Analysis** – Microsoft & LinkedIn  
 - **Data Analytics & Visualization Job Simulation** – Forage & Accenture  
-- **Complete Data Analyst Training** – Udemy (Python, NumPy, Pandas, Data Collection, Visualization)  
+- **Complete Data Analyst Training** – Udemy 
 - **SQL for Business Analysis** – Udemy  
 
 ---
@@ -65,8 +66,9 @@ _Tools: Python, Deep Learning, HTML, CSS, JavaScript_
 ## 📝 Publications
 
 **"Optimized Deep Learning Framework for Cryptocurrency Price Prediction"** 
-_Tools: Python, Deep Learning, HTML, CSS, JavaScript_
-Published in **Springer Nature**, Vol. 6, Article No. 67, January 2025  
+Published in **Springer Nature**, Vol. 6, Article No. 67, January 2025
+**Tools**: Python, Deep Learning, HTML, CSS, JavaScript
+
 In this published research, I co-developed an advanced deep learning framework aimed at improving the accuracy of cryptocurrency price prediction. The study focused on three major cryptocurrencies—Monero, Ethereum, and Litecoin—and applied two powerful neural network architectures: Long Short-Term Memory (LSTM) and Gated Recurrent Units (GRU). To enhance predictive performance, we incorporated external market indicators including the Direction Algorithm (to capture the influence of Bitcoin as a parent coin), Change Point Detection using the PELT algorithm (to identify sudden market shifts), and sentiment analysis via the VADER algorithm (to quantify the impact of cryptocurrency-related news).
 
 By combining these diverse data sources, our proposed models (VADER + Direction + PELT integrated with LSTM/GRU) achieved significantly lower error rates compared to standard models—for instance, a Mean Absolute Error (MAE) as low as 1.11 in the GRU model for Monero. This multi-layered approach not only demonstrated superior accuracy but also provided a more holistic view of market dynamics. The framework serves as a strong foundation for data-driven decision-making in financial analytics and highlights the power of combining deep learning with external data signals in time-series forecasting.
