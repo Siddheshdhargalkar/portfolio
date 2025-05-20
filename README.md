@@ -1,6 +1,5 @@
 # Siddhesh Santosh Dhargalkar  
-**Data Analyst**  
-📞 +971 562371305 / +91 9764923503  
+**Data Analyst**   
 📧 siddhargalkar@gmail.com  
 🌐 [LinkedIn]([https://www.linkedin.com/in/your-link](https://www.linkedin.com/in/siddhesh-dhargalkar-b7a36515b/)) | 📍 Dubai  
 
@@ -17,10 +16,7 @@
 ## 🎓 Education
 
 - **B.E. in Computer Engineering**  
-  Agnel Institute of Technology and Design, Goa (_July 2021 – July 2024_)
-
-- **Diploma in Computer Engineering**  
-  Government Polytechnic, Panjim, Goa (_July 2016 – Nov 2020_)
+  Agnel Institute of Technology and Design, Goa ( July 2021 – July 2024 )
 
 ---
 
@@ -68,8 +64,12 @@ _Tools: Python, Deep Learning, HTML, CSS, JavaScript_
 
 ## 📝 Publications
 
-**"Optimized Deep Learning Framework for Cryptocurrency Price Prediction"**  
+**"Optimized Deep Learning Framework for Cryptocurrency Price Prediction"** 
+_Tools: Python, Deep Learning, HTML, CSS, JavaScript_
 Published in **Springer Nature**, Vol. 6, Article No. 67, January 2025  
+In this published research, I co-developed an advanced deep learning framework aimed at improving the accuracy of cryptocurrency price prediction. The study focused on three major cryptocurrencies—Monero, Ethereum, and Litecoin—and applied two powerful neural network architectures: Long Short-Term Memory (LSTM) and Gated Recurrent Units (GRU). To enhance predictive performance, we incorporated external market indicators including the Direction Algorithm (to capture the influence of Bitcoin as a parent coin), Change Point Detection using the PELT algorithm (to identify sudden market shifts), and sentiment analysis via the VADER algorithm (to quantify the impact of cryptocurrency-related news).
+
+By combining these diverse data sources, our proposed models (VADER + Direction + PELT integrated with LSTM/GRU) achieved significantly lower error rates compared to standard models—for instance, a Mean Absolute Error (MAE) as low as 1.11 in the GRU model for Monero. This multi-layered approach not only demonstrated superior accuracy but also provided a more holistic view of market dynamics. The framework serves as a strong foundation for data-driven decision-making in financial analytics and highlights the power of combining deep learning with external data signals in time-series forecasting.
 [Read Publication](https://link.springer.com/article/10.1007/s42979-024-03611-9)
 
 ---
