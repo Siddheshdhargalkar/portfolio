@@ -1,7 +1,3 @@
----
-layout: default
----
-
 # Siddhesh Santosh Dhargalkar  
 **Data Analyst**  
 📞 +971 562371305 / +91 9764923503  
