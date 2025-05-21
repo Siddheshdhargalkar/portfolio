@@ -1,7 +1,7 @@
 ## Data/Business Analyst
 
-📧 siddhargalkar@gmail.com  
-🌐 [LinkedIn](https://www.linkedin.com/in/siddhesh-dhargalkar-b7a36515b/). | 📍 Dubai ( Sponsorship Visa 2 Years ) 
+📧 **siddhargalkar@gmail.com**  
+🌐 **[LinkedIn](https://www.linkedin.com/in/siddhesh-dhargalkar-b7a36515b/). | 📍 Dubai ( Sponsorship Visa 2 Years )** 
 
 ---
 
@@ -68,14 +68,13 @@ _Aug 2023 – Sep 2023_
 
 **"Optimized Deep Learning Framework for Cryptocurrency Price Prediction"**   
 
-Published in **Springer Nature**, Vol. 6, Article No. 67, January 2025
+[Published in **Springer Nature**, Vol. 6, Article No. 67, January 2025](https://link.springer.com/article/10.1007/s42979-024-03611-9)
 
 **Tools**: Python, Deep Learning, HTML, CSS, JavaScript
 
 In this published research, I co-developed an advanced deep learning framework aimed at improving the accuracy of cryptocurrency price prediction. The study focused on three major cryptocurrencies—Monero, Ethereum, and Litecoin—and applied two powerful neural network architectures: Long Short-Term Memory (LSTM) and Gated Recurrent Units (GRU). To enhance predictive performance, we incorporated external market indicators including the Direction Algorithm (to capture the influence of Bitcoin as a parent coin), Change Point Detection using the PELT algorithm (to identify sudden market shifts), and sentiment analysis via the VADER algorithm (to quantify the impact of cryptocurrency-related news).
 
 By combining these diverse data sources, our proposed models (VADER + Direction + PELT integrated with LSTM/GRU) achieved significantly lower error rates compared to standard models—for instance, a Mean Absolute Error (MAE) as low as 1.11 in the GRU model for Monero. This multi-layered approach not only demonstrated superior accuracy but also provided a more holistic view of market dynamics. The framework serves as a strong foundation for data-driven decision-making in financial analytics and highlights the power of combining deep learning with external data signals in time-series forecasting.
-[Read Publication](https://link.springer.com/article/10.1007/s42979-024-03611-9)
 
 ---
 
