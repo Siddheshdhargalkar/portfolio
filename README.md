@@ -81,10 +81,10 @@ By combining these diverse data sources, our proposed models (VADER + Direction 
 
 ## 📊 Projects
 
-### **Cryptocurrency Price Prediction**  
-Tools: Python, Deep Learning, HTML, CSS, JavaScript
-- Built deep learning models for improved price prediction accuracy.  
-- Integrated sentiment analysis from news sources for better forecasts.  
-- Outperformed traditional models with lower error margins.
+### [**Dubai Real Estate Market Analysis and Forecast (2020–2030)**](https://github.com/Siddheshdhargalkar/Dubai-Real-Estate-Market-Analysis-and-Forecast-2020-2030-)  
+- Conducted a comprehensive analysis of Dubai’s real estate market using publicly available data from the Dubai Government Open Data Portal. Leveraged Python (Pandas, NumPy) and data visualization libraries (Matplotlib, Seaborn, Plotly) to uncover key trends, segment market behavior, and identify investment opportunities. Employed LSTM neural networks for forecasting property prices and transaction volumes through 2030. The study integrates macroeconomic indicators and policy analysis to deliver actionable insights for investors and policymakers in a rapidly evolving market.
+
+### [**Dubai Real Estate Price Prediction (Machine Learning)**](https://github.com/Siddheshdhargalkar/-Analysis-of-Dubai-Real-Estate-Prices)
+- Developed a predictive model for estimating real estate prices in Dubai using a dataset of over 41,000 property listings from Bayut.com. Compared the performance of four regression models—Linear Regression, Decision Tree, Random Forest, and Gradient Boosting—based on MAE, MSE, RMSE, and R² score. The Random Forest Regressor achieved the best overall accuracy, demonstrating strong performance in handling complex, non-linear relationships within the data.
 
 ---
