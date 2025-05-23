@@ -82,48 +82,48 @@ By combining these diverse data sources, our proposed models (VADER + Direction 
 ## 📊 Projects
 
 ### **Dubai Real Estate Market Analysis and Forecast (2020–2030)**[GitHub](https://github.com/Siddheshdhargalkar/Dubai-Real-Estate-Market-Analysis-and-Forecast-2020-2030-)  
--Conducted an in-depth analysis of Dubai’s real estate market using data from the Dubai Government Open Data Portal.              
--Utilized Python libraries: Pandas, NumPy for data analysis; Matplotlib, Seaborn, and Plotly for visualizations.             
--Identified key market trends, segmented buyer/seller behavior, and uncovered investment opportunities.         
--Applied LSTM neural networks to forecast property prices and transaction volumes through 2030.               
--Integrated macroeconomic indicators and policy analysis to provide actionable insights for investors and policymakers.                        
+- Conducted an in-depth analysis of Dubai’s real estate market using data from the Dubai Government Open Data Portal.              
+- Utilized Python libraries: Pandas, NumPy for data analysis; Matplotlib, Seaborn, and Plotly for visualizations.             
+- Identified key market trends, segmented buyer/seller behavior, and uncovered investment opportunities.         
+- Applied LSTM neural networks to forecast property prices and transaction volumes through 2030.               
+- Integrated macroeconomic indicators and policy analysis to provide actionable insights for investors and policymakers.                        
 
 ### **Dubai Real Estate Price Prediction (Machine Learning)**[GitHub](https://github.com/Siddheshdhargalkar/-Analysis-of-Dubai-Real-Estate-Prices)
--Developed a model to predict real estate prices in Dubai.                    
--Utilized a dataset of 41,000+ property listings from Bayut.com.                   
--Implemented and compared four regression models:                 
+- Developed a model to predict real estate prices in Dubai.                    
+- Utilized a dataset of 41,000+ property listings from Bayut.com.                   
+- Implemented and compared four regression models:
 Linear Regression            
 Decision Tree              
 Random Forest                
 Gradient Boosting               
--Evaluated models using MAE, MSE, RMSE, and R² score.           
--Random Forest Regressor delivered the best performance.           
--Successfully captured complex, non-linear relationships in the data.                
+- Evaluated models using MAE, MSE, RMSE, and R² score.           
+- Random Forest Regressor delivered the best performance.           
+- Successfully captured complex, non-linear relationships in the data.                
 
 ### **Predictive Modeling of UAE Banking Stocks Using Machine Learning**  [GitHub](https://github.com/Siddheshdhargalkar/Predictive-Modeling-of-UAE-Banking-Stocks-Using-Machine-Learning)
--Forecasted stock prices for ENBD, DIB, FAB, and ADCB using Random Forest models.                             
--Combined historical stock data with macroeconomic indicators.                 
+- Forecasted stock prices for ENBD, DIB, FAB, and ADCB using Random Forest models.                             
+- Combined historical stock data with macroeconomic indicators.                 
 
 Data & Preprocessing:
--Collected daily stock prices and macro data (DFM Index, Oil prices, USD-AED, GDP).           
--Cleaned data, handled missing values, engineered features (lags, moving averages).         
--Normalized data for modeling.
+- Collected daily stock prices and macro data (DFM Index, Oil prices, USD-AED, GDP).           
+- Cleaned data, handled missing values, engineered features (lags, moving averages).         
+- Normalized data for modeling.
 
 Modeling:
--Separate Random Forest models trained per bank (80/20 time split).
+- Separate Random Forest models trained per bank (80/20 time split).
 
 Forecasted:
--30-day daily prices
--24-month monthly prices
+- 30-day daily prices
+- 24-month monthly prices
 
 Output saved in combined_forecasts.csv.
 
 Key Insights:
--ENBD: Stable growth post-2020.
--FAB: Volatile, peaked in 2022, declined after.
--DIB & ADCB: Consistent, lower-risk growth.
--DIB had highest trading volume in 2021.
--Oil prices strongly correlated with market trends.
+- ENBD: Stable growth post-2020.
+- FAB: Volatile, peaked in 2022, declined after.
+- DIB & ADCB: Consistent, lower-risk growth.
+- DIB had highest trading volume in 2021.
+- Oil prices strongly correlated with market trends.
 
 
 ---
