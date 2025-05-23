@@ -6,11 +6,13 @@
 ---
 
 ## About me
-Data Analyst with a strong foundation in data analysis, business intelligence, and full-stack development. Skilled in Python, SQL, Power BI,  and Advanced Excel, with hands-on experience in exploratory data analysis, data cleaning, visualization, and dashboard creation. Adept at turning complex datasets into clear, actionable insights to support business decisions.
+I’m a Data Analyst with a strong foundation in data analytics, business intelligence, and a basic understanding of full-stack development. I specialize in transforming raw, messy datasets into clear, actionable insights using tools like Python, SQL, Power BI, and Advanced Excel. My core skills include data cleaning, exploratory analysis, predictive modeling, and dashboard creation—focused on delivering business value through data.
 
-Experienced in working with real-world data across industries including entertainment, healthcare, and finance. Holds certifications from Google, Microsoft, and Udemy in data analytics and visualization. Educational background includes a Bachelor's in Computer Engineering and a Diploma in Computer Engineering. Published research on deep learning-based cryptocurrency price prediction in Springer Nature.
+A significant part of my work has been centered around Dubai and UAE-based datasets, reflecting my goal to contribute to the region’s data-driven growth. I’ve led end-to-end projects analyzing real estate trends, food delivery performance, banking stock forecasts, and public health data. These projects have helped build my domain expertise in local industries.
 
-Currently based in Dubai and open to data-driven opportunities that leverage both technical expertise and analytical thinking.
+Academically, I hold a Bachelor’s in Computer Engineering and have earned certifications from Google, Microsoft, and Udemy in data analytics, SQL, and visualization. I also co-authored published research in Springer Nature, where we developed a deep learning framework for cryptocurrency price prediction using LSTM, GRU, sentiment analysis, and market signals.
+
+Currently based in Dubai (with a valid 2-year residence visa), I’m actively exploring opportunities that allow me to apply my technical and analytical skill set to real-world challenges—especially within real estate, fintech, healthcare, and smart city domains.
 
 
 ---
