@@ -118,15 +118,49 @@ By combining these diverse data sources, our proposed models (VADER + Direction 
 * Identified three patient clusters varying by age, ethnicity, smoking status, and treatment.
 * Findings support personalized treatment and enhanced understanding of cancer trends in UAE.
 
-### **Noon Food Dubai – SQL Performance Analytics**
+### **Noon Food Dubai – SQL Performance Analytics**    [GitHub](https://github.com/Siddheshdhargalkar/Noon-Food-Dubai---SQL-Performance-Analytics)
 * Created SQL queries to analyze Noon’s Food vertical in Dubai for strategic decision-making.
 * Examined customer behavior, cuisine and restaurant preferences, promo code usage, and restaurant performance.
-**Focus areas**:
+  **Focus areas**:
 * Customer acquisition, retention, and repeat behavior
 * Outlet and cuisine performance metrics
 * Promo code impact on order volume and value
 * Delivery efficiency and user satisfaction trends
 * Queries include business insights highlighting their strategic importance.
 * Enabled tracking of user engagement, identification of top restaurants, promo optimization, churn reduction, and improved marketing targeting.
+
+### **Cyber Threat Landscape: Key Insights**  [GitHub](https://github.com/Siddheshdhargalkar/Cyber-Threat-Landscape-Data-Driven-Analysis-and-Strategic-Insights)
+* Analyzed detailed cybersecurity data including IPs, ports, protocols, and anomaly scores.
+* Identified top attacker IP (103.216.15.12) and highly targeted ports (7508, 25889).
+* DDoS attacks linked to higher severity; intrusions common across severity levels.
+* Attack activity peaks during working hours, suggesting automated threats.
+* Strong correlation between anomaly scores and attack severity.
+* DNS and HTTP are the main vectors for malicious traffic.
+* Windows systems and Mozilla browsers are primary targets.
+* ICMP and UDP are the most used protocols in attacks.
+* Certain regions face heavier attack volumes, indicating need for targeted defense.
+* Data-driven insights help improve threat detection and proactive cybersecurity strategies.
+
+### **Flight Delay Analysis**    [GitHub](https://github.com/Siddheshdhargalkar/airline-delay-analysis)
+* Analyzed a dataset of 336,776 flights from 2013, including departure/arrival times, delays, airlines, and airports.
+* Conducted data cleaning and exploratory data analysis (EDA) in a Jupyter Notebook.
+* Explored correlations between arrival delays and factors like departure time, carrier, and origin airport.
+* Used visualizations—histograms, scatter plots, violin plots, and heatmaps—to reveal key patterns and relationships.
+
+### **Automobile Specifications and Pricing Analysis**   [GitHub](https://github.com/Siddheshdhargalkar/Comprehensive-Analysis-of-Automobile-Specifications-and-Pricing)
+* Conducted detailed exploratory data analysis (EDA) on automobile dataset with specs and pricing.
+* Handled data cleaning: missing values, placeholder replacement, and data type conversions.
+* Detected and treated outliers using IQR method, replacing them with median values.
+* Explored relationships among features like make, fuel type, engine size, horsepower, and price.
+* Visualizations included bar plots, histograms, scatter plots, box plots, pair plots, count plots, and correlation heatmaps.
+* Analysis structured in a Jupyter Notebook using pandas, numpy, matplotlib, and seaborn.
+
+### **Police Stop Data Analysis**   [GitHub](https://github.com/Siddheshdhargalkar/police-stop-analysis)
+* Analyzed police stop records focusing on driver demographics, violation types, and search/arrest outcomes.
+* Performed data cleaning, transformation, and exploratory data analysis (EDA) using Python (Pandas, NumPy) and visualization libraries (Matplotlib, Seaborn).
+* Examined correlations between driver characteristics (age, gender) and stop outcomes.
+* Identified common violation types and their outcomes, including search rates and arrests.
+* Visualized trends with bar graphs, histograms, and heatmaps to highlight key patterns.
+* Findings reveal demographic influences and outcome variations, providing insights for policy and research on law enforcement practices.
   
 ---
