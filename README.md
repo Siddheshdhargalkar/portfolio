@@ -97,28 +97,17 @@ By combining these diverse data sources, our proposed models (VADER + Direction 
 * Successfully captured complex, non-linear relationships in the data.                
 
 ### **Predictive Modeling of UAE Banking Stocks Using Machine Learning**  [GitHub](https://github.com/Siddheshdhargalkar/Predictive-Modeling-of-UAE-Banking-Stocks-Using-Machine-Learning)
-* Forecasted stock prices for ENBD, DIB, FAB, and ADCB using Random Forest models.                             
-* Combined historical stock data with macroeconomic indicators.                 
-
-#### **Data & Preprocessing**:
-* Collected daily stock prices and macro data (DFM Index, Oil prices, USD-AED, GDP).           
-* Cleaned data, handled missing values, engineered features (lags, moving averages).         
-* Normalized data for modeling.
-
-#### **Modeling**:
-* Separate Random Forest models trained per bank (80/20 time split).
-
-#### **Forecasted**:
-* 30-day daily prices
-* 24-month monthly prices
-
-
-#### **Key Insights**:
-* ENBD: Stable growth post-2020.
-* FAB: Volatile, peaked in 2022, declined after.
-* DIB & ADCB: Consistent, lower-risk growth.
-* DIB had highest trading volume in 2021.
-* Oil prices strongly correlated with market trends.
+* Forecasted stock prices for ENBD, DIB, FAB, and ADCB using Random Forest models.
+* Integrated historical stock data with macroeconomic indicators (DFM Index, Oil prices, USD-AED exchange rate, GDP).
+* Data preprocessing included cleaning, missing value handling, feature engineering (lags, moving averages), and normalization.
+* Trained separate Random Forest models per bank with an 80/20 time-based train-test split.
+* Produced forecasts for: 30-day daily prices, 24-month monthly prices
+#### Key insights:
+* ENBD showed stable growth after 2020.
+* FAB was volatile, peaking in 2022 then declining.
+* DIB and ADCB demonstrated consistent, lower-risk growth.
+* DIB recorded the highest trading volume in 2021.
+* Strong correlation found between oil prices and stock market trends.
 
 ### **UAE Cancer Patient Data Analysis**  [GitHub](https://github.com/Siddheshdhargalkar/Data-Driven-Insights-into-Cancer-Patient-Demographics-in-the-UAE)
 * Analyzed UAE cancer patient data using Python for clinical insights and diagnostic support.
@@ -128,5 +117,16 @@ By combining these diverse data sources, our proposed models (VADER + Direction 
 * Key predictive features: age, weight, cancer type, ethnicity, comorbidities.
 * Identified three patient clusters varying by age, ethnicity, smoking status, and treatment.
 * Findings support personalized treatment and enhanced understanding of cancer trends in UAE.
+
+### **Noon Food Dubai – SQL Performance Analytics**
+* Created SQL queries to analyze Noon’s Food vertical in Dubai for strategic decision-making.
+* Examined customer behavior, cuisine and restaurant preferences, promo code usage, and restaurant performance.
+**Focus areas**:
+* Customer acquisition, retention, and repeat behavior
+* Outlet and cuisine performance metrics
+* Promo code impact on order volume and value
+* Delivery efficiency and user satisfaction trends
+* Queries include business insights highlighting their strategic importance.
+* Enabled tracking of user engagement, identification of top restaurants, promo optimization, churn reduction, and improved marketing targeting.
   
 ---
