@@ -1,7 +1,7 @@
 ## Data/Business Analyst
 
 📧 **siddhargalkar@gmail.com**  
-🌐 **[LinkedIn](https://www.linkedin.com/in/siddhesh-dhargalkar-b7a36515b/). | 📍 Dubai ( Sponsorship Visa 2 Years )** 
+🌐 **[LinkedIn](https://www.linkedin.com/in/siddhesh-dhargalkar-b7a36515b/). | 📍 Dubai ( Residence Visa 2 Years )** 
 
 ---
 
@@ -101,7 +101,7 @@ By combining these diverse data sources, our proposed models (VADER + Direction 
 * Integrated historical stock data with macroeconomic indicators (DFM Index, Oil prices, USD-AED exchange rate, GDP).
 * Data preprocessing included cleaning, missing value handling, feature engineering (lags, moving averages), and normalization.
 * Trained separate Random Forest models per bank with an 80/20 time-based train-test split.
-* Produced forecasts for: 30-day daily prices, 24-month monthly prices
+* Produced forecasts for: 30-day daily prices, 24-month monthly prices.       
 #### Key insights:
 * ENBD showed stable growth after 2020.
 * FAB was volatile, peaking in 2022 then declining.
@@ -120,7 +120,7 @@ By combining these diverse data sources, our proposed models (VADER + Direction 
 
 ### **Noon Food Dubai – SQL Performance Analytics**    [GitHub](https://github.com/Siddheshdhargalkar/Noon-Food-Dubai---SQL-Performance-Analytics)
 * Created SQL queries to analyze Noon’s Food vertical in Dubai for strategic decision-making.
-* Examined customer behavior, cuisine and restaurant preferences, promo code usage, and restaurant performance.
+* Examined customer behavior, cuisine and restaurant preferences, promo code usage, and restaurant performance.           
 **Focus areas**:
 * Customer acquisition, retention, and repeat behavior
 * Outlet and cuisine performance metrics
