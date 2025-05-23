@@ -102,6 +102,7 @@ By combining these diverse data sources, our proposed models (VADER + Direction 
 * Data preprocessing included cleaning, missing value handling, feature engineering (lags, moving averages), and normalization.
 * Trained separate Random Forest models per bank with an 80/20 time-based train-test split.
 * Produced forecasts for: 30-day daily prices, 24-month monthly prices
+
 #### Key insights:
 * ENBD showed stable growth after 2020.
 * FAB was volatile, peaking in 2022 then declining.
@@ -121,6 +122,7 @@ By combining these diverse data sources, our proposed models (VADER + Direction 
 ### **Noon Food Dubai – SQL Performance Analytics**    [GitHub](https://github.com/Siddheshdhargalkar/Noon-Food-Dubai---SQL-Performance-Analytics)
 * Created SQL queries to analyze Noon’s Food vertical in Dubai for strategic decision-making.
 * Examined customer behavior, cuisine and restaurant preferences, promo code usage, and restaurant performance.
+
   **Focus areas**:
 * Customer acquisition, retention, and repeat behavior
 * Outlet and cuisine performance metrics
