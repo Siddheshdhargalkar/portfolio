@@ -91,11 +91,7 @@ By combining these diverse data sources, our proposed models (VADER + Direction 
 ### **Dubai Real Estate Price Prediction (Machine Learning)**  [GitHub](https://github.com/Siddheshdhargalkar/-Analysis-of-Dubai-Real-Estate-Prices)
 * Developed a model to predict real estate prices in Dubai.                    
 * Utilized a dataset of 41,000+ property listings from Bayut.com.                   
-#### Implemented and compared four regression models:            
-* Linear Regression            
-* Decision Tree              
-* Random Forest                
-* Gradient Boosting               
+* Implemented and compared four regression models: Linear Regression, Decision Tree, Random Forest, Gradient Boosting               
 * Evaluated models using MAE, MSE, RMSE, and R² score.           
 * Random Forest Regressor delivered the best performance.           
 * Successfully captured complex, non-linear relationships in the data.                
@@ -124,5 +120,13 @@ By combining these diverse data sources, our proposed models (VADER + Direction 
 * DIB had highest trading volume in 2021.
 * Oil prices strongly correlated with market trends.
 
-
+### **UAE Cancer Patient Data Analysis**  [GitHub](https://github.com/Siddheshdhargalkar/Data-Driven-Insights-into-Cancer-Patient-Demographics-in-the-UAE)
+* Analyzed UAE cancer patient data using Python for clinical insights and diagnostic support.
+* Performed data cleaning, exploratory analysis, and feature engineering.
+* Applied supervised models (Logistic Regression, Random Forest, KNN, SVM, XGBoost) to predict cancer stages.
+* Used K-Means clustering and PCA for unsupervised patient segmentation.
+* Key predictive features: age, weight, cancer type, ethnicity, comorbidities.
+* Identified three patient clusters varying by age, ethnicity, smoking status, and treatment.
+* Findings support personalized treatment and enhanced understanding of cancer trends in UAE.
+  
 ---
