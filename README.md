@@ -102,7 +102,6 @@ By combining these diverse data sources, our proposed models (VADER + Direction 
 * Data preprocessing included cleaning, missing value handling, feature engineering (lags, moving averages), and normalization.
 * Trained separate Random Forest models per bank with an 80/20 time-based train-test split.
 * Produced forecasts for: 30-day daily prices, 24-month monthly prices
-
 #### Key insights:
 * ENBD showed stable growth after 2020.
 * FAB was volatile, peaking in 2022 then declining.
@@ -122,8 +121,7 @@ By combining these diverse data sources, our proposed models (VADER + Direction 
 ### **Noon Food Dubai – SQL Performance Analytics**    [GitHub](https://github.com/Siddheshdhargalkar/Noon-Food-Dubai---SQL-Performance-Analytics)
 * Created SQL queries to analyze Noon’s Food vertical in Dubai for strategic decision-making.
 * Examined customer behavior, cuisine and restaurant preferences, promo code usage, and restaurant performance.
-
-  **Focus areas**:
+**Focus areas**:
 * Customer acquisition, retention, and repeat behavior
 * Outlet and cuisine performance metrics
 * Promo code impact on order volume and value
@@ -164,5 +162,16 @@ By combining these diverse data sources, our proposed models (VADER + Direction 
 * Identified common violation types and their outcomes, including search rates and arrests.
 * Visualized trends with bar graphs, histograms, and heatmaps to highlight key patterns.
 * Findings reveal demographic influences and outcome variations, providing insights for policy and research on law enforcement practices.
+
+### **Twitter Sentiment Analysis Using Sentiment140**   [GitHub](https://github.com/Siddheshdhargalkar/Twitter-Sentiment-Analysis)
+* Analyzed 1.6M tweets to identify sentiment trends using the VADER NLP tool.
+* Cleaned and preprocessed text (removed usernames, URLs, stopwords; lemmatized words).
+* Top words: day, good, get, like, go — reflecting daily life themes.
+* VADER classified tweets as positive, neutral, or negative.
+* Positive sentiment dominated, with a spike in negativity in June.
+* Visualized trends by month and word frequency.
+* Findings confirm VADER's effectiveness and highlight contextual word impact on sentiment.
+
+
   
 ---
