@@ -61,8 +61,8 @@ _Aug 2023 – Sep 2023_
 - **Career Essentials in Data Analysis** – [Microsoft & LinkedIn](https://www.linkedin.com/learning/certificates/f8ddd0f09dd8141ad9b2de4e1ea9628862d85854dae7c00114a4f63d33993b4d?trk=share_certificate
 )    ![Microsoft](/images/microsoft.png)
 - **Data Analytics & Visualization Job Simulation** – [Forage & Accenture](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/T6kdcdKSTfg2aotxT/hzmoNKtzvAzXsEqx8_T6kdcdKSTfg2aotxT_8vzwCC3kW6yj7SEei_1733679012288_completion_certificate.pdf)   ![Accenture](/images/accenture.png)
-- **Complete Data Analyst Training** – [Udemy](https://www.udemy.com/certificate/UC-4d4f3c36-e815-4285-a720-6ad07bf100ad/)  ![Udemy](/images/udemy.png)
-- **SQL for Business Analysis** – [Udemy](https://www.udemy.com/certificate/UC-ed729751-3d74-4a44-8b22-259f66b12a0a/)  ![Udemy](/images/udemy.png)
+- **Complete Data Analyst Training** – [Udemy](https://www.udemy.com/certificate/UC-4d4f3c36-e815-4285-a720-6ad07bf100ad/)  ![Udemy](/images/Udemy.png)
+- **SQL for Business Analysis** – [Udemy](https://www.udemy.com/certificate/UC-ed729751-3d74-4a44-8b22-259f66b12a0a/)  ![Udemy](/images/Udemy.png)
 
 ---
 
