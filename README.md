@@ -69,7 +69,7 @@ _Aug 2023 – Sep 2023_
 ## 📝 Publications
 
 **"Optimized Deep Learning Framework for Cryptocurrency Price Prediction"**   
-![Crypto](/images/crypto.png)
+![Crypto](/images/cryptoo.png)
 
 [Published in **Springer Nature**, Vol. 6, Article No. 67, January 2025](https://link.springer.com/article/10.1007/s42979-024-03611-9)
 
