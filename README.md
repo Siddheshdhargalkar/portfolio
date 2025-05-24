@@ -69,7 +69,7 @@ _Aug 2023 – Sep 2023_
 ## 📝 Publications
 
 **"Optimized Deep Learning Framework for Cryptocurrency Price Prediction"**   
-![Crypto](/images/cryptoo.png)
+   ![Crypto](/images/cryptoo.png)
 
 [Published in **Springer Nature**, Vol. 6, Article No. 67, January 2025](https://link.springer.com/article/10.1007/s42979-024-03611-9)
 
@@ -85,7 +85,7 @@ By combining these diverse data sources, our proposed models (VADER + Direction 
 ## 📊 Projects
 
 ### **Dubai Real Estate Market Analysis and Forecast (2020–2030)**  [GitHub](https://github.com/Siddheshdhargalkar/Dubai-Real-Estate-Market-Analysis-and-Forecast-2020-2030-)  
-![dubairealestatemarketanalysisandforecast](/images/dubairealestatemarketanalysisandforecast.png)
+  ![dubairealestatemarketanalysisandforecast](/images/dubairealestatemarketanalysisandforecast.png)
 * Conducted an in-depth analysis of Dubai’s real estate market using data from the Dubai Government Open Data Portal.              
 * Utilized Python libraries: Pandas, NumPy for data analysis; Matplotlib, Seaborn, and Plotly for visualizations.             
 * Identified key market trends, segmented buyer/seller behavior, and uncovered investment opportunities.         
@@ -93,7 +93,7 @@ By combining these diverse data sources, our proposed models (VADER + Direction 
 * Integrated macroeconomic indicators and policy analysis to provide actionable insights for investors and policymakers.                        
 
 ### **Dubai Real Estate Price Prediction (Machine Learning)**  [GitHub](https://github.com/Siddheshdhargalkar/-Analysis-of-Dubai-Real-Estate-Prices)
-![dubaipriceprediction](/images/dubaipriceprediction.png)
+  ![dubaipriceprediction](/images/dubaipriceprediction.png)
 * Developed a model to predict real estate prices in Dubai.                    
 * Utilized a dataset of 41,000+ property listings from Bayut.com.                   
 * Implemented and compared four regression models: Linear Regression, Decision Tree, Random Forest, Gradient Boosting               
@@ -102,6 +102,7 @@ By combining these diverse data sources, our proposed models (VADER + Direction 
 * Successfully captured complex, non-linear relationships in the data.                
 
 ### **Predictive Modeling of UAE Banking Stocks Using Machine Learning**  [GitHub](https://github.com/Siddheshdhargalkar/Predictive-Modeling-of-UAE-Banking-Stocks-Using-Machine-Learning)
+  ![bankingstocks](/images/bankingstocks.png)
 * Forecasted stock prices for ENBD, DIB, FAB, and ADCB using Random Forest models.
 * Integrated historical stock data with macroeconomic indicators (DFM Index, Oil prices, USD-AED exchange rate, GDP).
 * Data preprocessing included cleaning, missing value handling, feature engineering (lags, moving averages), and normalization.
@@ -115,6 +116,7 @@ By combining these diverse data sources, our proposed models (VADER + Direction 
 * Strong correlation found between oil prices and stock market trends.
 
 ### **UAE Cancer Patient Data Analysis**  [GitHub](https://github.com/Siddheshdhargalkar/Data-Driven-Insights-into-Cancer-Patient-Demographics-in-the-UAE)
+  ![cancerpatient](/images/cancerpatient.png)
 * Analyzed UAE cancer patient data using Python for clinical insights and diagnostic support.
 * Performed data cleaning, exploratory analysis, and feature engineering.
 * Applied supervised models (Logistic Regression, Random Forest, KNN, SVM, XGBoost) to predict cancer stages.
@@ -124,6 +126,7 @@ By combining these diverse data sources, our proposed models (VADER + Direction 
 * Findings support personalized treatment and enhanced understanding of cancer trends in UAE.
 
 ### **Noon Food Dubai – SQL Performance Analytics**    [GitHub](https://github.com/Siddheshdhargalkar/Noon-Food-Dubai---SQL-Performance-Analytics)
+   ![noonfood](/images/noonfood.png)
 * Created SQL queries to analyze Noon’s Food vertical in Dubai for strategic decision-making.
 * Examined customer behavior, cuisine and restaurant preferences, promo code usage, and restaurant performance.           
 **Focus areas**:
@@ -135,6 +138,7 @@ By combining these diverse data sources, our proposed models (VADER + Direction 
 * Enabled tracking of user engagement, identification of top restaurants, promo optimization, churn reduction, and improved marketing targeting.
 
 ### **Cyber Threat Landscape: Key Insights**  [GitHub](https://github.com/Siddheshdhargalkar/Cyber-Threat-Landscape-Data-Driven-Analysis-and-Strategic-Insights)
+  ![cyberthreat](/images/cyberthreat.png)
 * Analyzed detailed cybersecurity data including IPs, ports, protocols, and anomaly scores.
 * Identified top attacker IP (103.216.15.12) and highly targeted ports (7508, 25889).
 * DDoS attacks linked to higher severity; intrusions common across severity levels.
@@ -147,12 +151,14 @@ By combining these diverse data sources, our proposed models (VADER + Direction 
 * Data-driven insights help improve threat detection and proactive cybersecurity strategies.
 
 ### **Flight Delay Analysis**    [GitHub](https://github.com/Siddheshdhargalkar/airline-delay-analysis)
+   ![flightdelay](/images/flightdelay.png)
 * Analyzed a dataset of 336,776 flights from 2013, including departure/arrival times, delays, airlines, and airports.
 * Conducted data cleaning and exploratory data analysis (EDA) in a Jupyter Notebook.
 * Explored correlations between arrival delays and factors like departure time, carrier, and origin airport.
 * Used visualizations—histograms, scatter plots, violin plots, and heatmaps—to reveal key patterns and relationships.
 
 ### **Automobile Specifications and Pricing Analysis**   [GitHub](https://github.com/Siddheshdhargalkar/Comprehensive-Analysis-of-Automobile-Specifications-and-Pricing)
+   ![automobilespecs](/images/automobilespecs.png)
 * Conducted detailed exploratory data analysis (EDA) on automobile dataset with specs and pricing.
 * Handled data cleaning: missing values, placeholder replacement, and data type conversions.
 * Detected and treated outliers using IQR method, replacing them with median values.
@@ -161,6 +167,7 @@ By combining these diverse data sources, our proposed models (VADER + Direction 
 * Analysis structured in a Jupyter Notebook using pandas, numpy, matplotlib, and seaborn.
 
 ### **Police Stop Data Analysis**   [GitHub](https://github.com/Siddheshdhargalkar/police-stop-analysis)
+   ![policestop](/images/policestop.png)
 * Analyzed police stop records focusing on driver demographics, violation types, and search/arrest outcomes.
 * Performed data cleaning, transformation, and exploratory data analysis (EDA) using Python (Pandas, NumPy) and visualization libraries (Matplotlib, Seaborn).
 * Examined correlations between driver characteristics (age, gender) and stop outcomes.
@@ -169,6 +176,7 @@ By combining these diverse data sources, our proposed models (VADER + Direction 
 * Findings reveal demographic influences and outcome variations, providing insights for policy and research on law enforcement practices.
 
 ### **Twitter Sentiment Analysis Using Sentiment140**   [GitHub](https://github.com/Siddheshdhargalkar/Twitter-Sentiment-Analysis)
+   ![twittersentiment](/images/twittersentiment.png)
 * Analyzed 1.6M tweets to identify sentiment trends using the VADER NLP tool.
 * Cleaned and preprocessed text (removed usernames, URLs, stopwords; lemmatized words).
 * Top words: day, good, get, like, go — reflecting daily life themes.
