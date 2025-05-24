@@ -85,6 +85,7 @@ By combining these diverse data sources, our proposed models (VADER + Direction 
 ## 📊 Projects
 
 ### **Dubai Real Estate Market Analysis and Forecast (2020–2030)**  [GitHub](https://github.com/Siddheshdhargalkar/Dubai-Real-Estate-Market-Analysis-and-Forecast-2020-2030-)  
+![dubairealestatemarketanalysisandforecast](/images/dubairealestatemarketanalysisandforecast.png)
 * Conducted an in-depth analysis of Dubai’s real estate market using data from the Dubai Government Open Data Portal.              
 * Utilized Python libraries: Pandas, NumPy for data analysis; Matplotlib, Seaborn, and Plotly for visualizations.             
 * Identified key market trends, segmented buyer/seller behavior, and uncovered investment opportunities.         
@@ -92,6 +93,7 @@ By combining these diverse data sources, our proposed models (VADER + Direction 
 * Integrated macroeconomic indicators and policy analysis to provide actionable insights for investors and policymakers.                        
 
 ### **Dubai Real Estate Price Prediction (Machine Learning)**  [GitHub](https://github.com/Siddheshdhargalkar/-Analysis-of-Dubai-Real-Estate-Prices)
+![dubaipriceprediction](/images/dubaipriceprediction.png)
 * Developed a model to predict real estate prices in Dubai.                    
 * Utilized a dataset of 41,000+ property listings from Bayut.com.                   
 * Implemented and compared four regression models: Linear Regression, Decision Tree, Random Forest, Gradient Boosting               
