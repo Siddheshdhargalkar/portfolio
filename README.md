@@ -22,11 +22,11 @@ Currently based in Dubai (with a valid 2-year residence visa), I’m actively ex
 - **Languages & Databases:** Python(Pandas, NumPy, Matplotlib, Seaborn, Plotly, Scikit-learn, XGBoost, Keras, TensorFlow)             
   **SQL** (MySQL, Databricks SQL)               
 - **Visualization Tools:** Power BI, Microsoft Excel (Advanced Excel: Pivot Tables, VBA, Formulas, Macros)            
-- **Machine Learning & Data Science:**Supervised & Unsupervised Learning (Logistic Regression, Random Forest, KNN, SVM, XGBoost, K-Means, PCA)             
-- **Deep Learning:**LSTM, GRU           
-- **Natural Language Processing:**VADER Sentiment Analysis, Text Preprocessing           
-- **Time Series Analysis:**Change Point Detection & PELT              
-- **Other Skills:**Business Analysis, Data Cleaning & Preprocessing, Exploratory Data Analysis (EDA), Dashboard Creation and Reporting, Research & Technical Writing
+- **Machine Learning & Data Science:** Supervised & Unsupervised Learning (Logistic Regression, Random Forest, KNN, SVM, XGBoost, K-Means, PCA)             
+- **Deep Learning:** LSTM, GRU           
+- **Natural Language Processing:** VADER Sentiment Analysis, Text Preprocessing           
+- **Time Series Analysis:** Change Point Detection & PELT              
+- **Other Skills:** Business Analysis, Data Cleaning & Preprocessing, Exploratory Data Analysis (EDA), Dashboard Creation and Reporting, Research & Technical Writing
 
 
 ---
