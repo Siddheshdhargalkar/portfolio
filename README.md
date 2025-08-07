@@ -25,7 +25,10 @@ Currently based in Dubai (with a valid 2-year residence visa), I’m actively ex
 - **Machine Learning & Data Science:** Supervised & Unsupervised Learning (Logistic Regression, Random Forest, KNN, SVM, XGBoost, K-Means, PCA)             
 - **Deep Learning:** LSTM, GRU           
 - **Natural Language Processing:** VADER Sentiment Analysis, Text Preprocessing           
-- **Time Series Analysis:** Change Point Detection & PELT              
+- **Time Series Analysis:** Change Point Detection & PELT
+- **Monitoring Tools & Scripting::** Control-M, Grafana, Prometheus (PromQL), SolarWinds
+- **Automation Scripts:** PowerShell, Bash, Python
+- **Cloud Platforms:** Basic familiarity with AWS, Azure, Google Cloud           
 - **Other Skills:** Business Analysis, Data Cleaning & Preprocessing, Exploratory Data Analysis (EDA), Dashboard Creation and Reporting, Research & Technical Writing
 
 
